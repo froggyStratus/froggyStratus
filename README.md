@@ -2,7 +2,7 @@
 ---
 ## About Me
 * 🔭 Working on getting my Bachelor's degree in Computer Science
-* 🌔 I currently have an Associate of Science degree in Computer Science
+* 🌔 I currently have an Associate degree in Computer Science
 * 🌱 I’m currently developing and strengthening my programming skills
 ## Preferred Languages
 * 🌴  C++, Java, HTML, CSS
