@@ -1,9 +1,11 @@
 ## ✨Hello✨
 ---
 ## About Me
-* 🔭 I’m currently working on getting my Bachelor's degree in Computer Science
+* 🔭 Working on getting my Bachelor's degree in Computer Science
 * 🌔 I currently have an Associate of Science degree in Computer Science
 * 🌱 I’m currently developing and strengthening my programming skills
 ## Prefered Languages
 * 🌴  C++, Java, HTML, CSS
+## Example Courses Taken
+* 🌿Internet Concepts, Object-Oriented Design and Programming, Cybersecurity Fundamentals, Computational Methods and Software
 ---
